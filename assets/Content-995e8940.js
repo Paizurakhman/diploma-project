@@ -1,4 +1,4 @@
-import{_ as p,b as o,d as m,w as f,o as i,c as a}from"./index-869cbcfc.js";const l=[{slug:"introduction",content:`<h1 style='margin-top:0in;text-indent:35.45pt;line-height:150%'><a
+import{_ as p,b as o,d as m,w as f,o as i,c as a}from"./index-7a5a94fb.js";const l=[{slug:"introduction",content:`<h1 style='margin-top:0in;text-indent:35.45pt;line-height:150%'><a
 name="_Toc134829579"><span lang=KZ style='font-family:"Times New Roman",serif;
 color:black'>Кіріспе.  Электр заряды және оның қасиеттері. Кулон заңы</span></a></h1>
 
